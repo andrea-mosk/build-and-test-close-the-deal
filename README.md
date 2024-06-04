@@ -2,7 +2,7 @@
 
 ## 1. Test Visibility
 
-Find how to setup this project.
+Find how to setup this project
 
 ### Fork repository
 
